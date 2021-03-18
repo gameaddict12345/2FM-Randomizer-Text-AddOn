@@ -1,6 +1,6 @@
 title: English language pack Add-On for Rando
 originalAuthor: OpenKH open-source assets
-description: Generate English game files. This mod is mainly useful to translate your PlayStation 2 copy of Kingdom Hearts II from any language to English.
+description: Modifies text strings that are used for the Garden of Assemblage Mod in KH2FM Randomizer
 assets:
   - name: msg/us/sys.bar
     method: binarc
